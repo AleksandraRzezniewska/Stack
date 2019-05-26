@@ -5,3 +5,10 @@ C:\Users\orzez\Source\Repos\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.
 C:\Users\orzez\Source\Repos\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
 C:\Users\orzez\Source\Repos\Stack\Stack\obj\Debug\Stack.exe
 C:\Users\orzez\Source\Repos\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\orzez\Source\Repos\Proste_algorytymy\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\orzez\Source\Repos\Proste_algorytymy\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\orzez\Source\Repos\Proste_algorytymy\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\orzez\Source\Repos\Proste_algorytymy\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\orzez\Source\Repos\Proste_algorytymy\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\orzez\Source\Repos\Proste_algorytymy\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\orzez\Source\Repos\Proste_algorytymy\Stack\Stack\obj\Debug\Stack.pdb

@@ -6,7 +6,7 @@ namespace Stack
     {
         private T[] _stack;
         private int index = 0;
-        readonly int n = 1000;
+        readonly int n = 0;
 
         public Stack()
         {
@@ -17,7 +17,7 @@ namespace Stack
         {
             if (index + 1 >= _stack.Length)
             {
-                Array.Resize(ref _stack, (_stack.Length + 1) * 2);
+                Array.Resize(ref _stack, (_stack.Length + 1));
             }
 
             _stack[index] = data;
